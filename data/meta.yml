@@ -26,6 +26,9 @@ members:
   - login: artemkrskk
     name: ''
     role: architect
+  - login: Valeriia15
+    name: ''
+    role: requirements
 stakeholders: []
 concept: 'Исполльзоване ИИ на рынке найма: помощь в анализе резюме/ИИ как адвизор для HR'
 stage: idea
