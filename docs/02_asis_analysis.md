@@ -1,10 +1,13 @@
 ---
 doc: 02_asis_analysis
 stage: as_is
-team: team-onboarding-01
-updated: 2026-09-26
+team: team-hiring-04
+updated: 2026-11-07
 authors:
-  - "@artemiy-0, @romuletta, @artemkrskk, @Valeriia15"
+  - "@artemiy-0"
+  - "@romu1etta"
+  - "@artemkrskk"
+  - "@Valeriia15"
 ---
 
 # Анализ процесса AS-IS
