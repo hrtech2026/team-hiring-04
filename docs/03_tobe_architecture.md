@@ -1,10 +1,13 @@
 ---
 doc: 03_tobe_architecture
 stage: to_be
-team: team-onboarding-01
-updated: 2026-09-26
+team: team-hiring-04
+updated: 2026-11-07
 authors:
-  - "@artemiy-0, @romuletta, @artemkrskk, @Valeriia15"
+  - "@artemiy-0"
+  - "@romu1etta"
+  - "@artemkrskk"
+  - "@Valeriia15"
 ---
 
 # Целевой процесс и архитектура решения
