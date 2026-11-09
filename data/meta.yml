@@ -22,13 +22,13 @@ members:
     role: captain
   - login: romu1etta
     name: ''
-    role: analyst
+    role: requirements
   - login: artemkrskk
     name: ''
     role: architect
   - login: Valeriia15
     name: ''
-    role: requirements
+    role: analyst
 stakeholders: []
 concept: 'Исполльзоване ИИ на рынке найма: помощь в анализе резюме/ИИ как адвизор для HR'
 stage: idea
